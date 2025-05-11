@@ -1,8 +1,6 @@
 def random_def() :
-    print ("This is a function that tells you what you should wear my temperature, place and time of the day.")
+    print ("This is a function that tells you what you should wear by temperature.")
     print (input ("Please enter the temperature in Celsius: "))
-    print (input ("Please enter the place you are going to: "))
-    print (input ("Please enter the time of the day: "))
     if int(input) < 20 :
         print ("You should wear a coat.")
     elif int(input) < 30 :
