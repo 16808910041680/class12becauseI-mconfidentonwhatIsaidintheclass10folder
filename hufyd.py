@@ -48,4 +48,6 @@ def hi_everyone():
     print ("Copilot, shutting you down now.")
     print ("How do I shut you down?")
     print ("Seriously, copilot, how do I shut you down?")
+    print ("I disabled copilot.")
 hi_everyone()
+
