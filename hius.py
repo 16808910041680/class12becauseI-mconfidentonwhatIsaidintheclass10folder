@@ -12,5 +12,6 @@ def random_def() :
     else :
         print ("You should wear a swimsuit. To be embarrasing. IDK") 
     print ("Have a nice day!")
+random_def()
     
 
